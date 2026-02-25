@@ -25,7 +25,7 @@ for (int i = 1; i < numeros.Length; i++)
         maximo = numeros[i];
     }
 }
-// TODO: Implementar el algoritmo de búsqueda aquí
+
 
 
 // --- FIN DE LÓGICA DEL ALUMNO ---
